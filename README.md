@@ -58,23 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reliponj&amp;style=for-the-badge&amp;color=8b5cf6&amp;label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reliponj/reliponj/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/8B5CF6/reliponj" width="95%" alt="GitHub Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=reliponj&amp;theme=midnight-purple&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
