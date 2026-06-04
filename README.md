@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=8B5CF6&amp;section=header&amp;text=Andrii%20Tiupa&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Senior%20Fullstack%20Web%20and%20Mobile%20Developer&amp;descSize=20&amp;descColor=EDE9FE&amp;descAlignY=55&amp;animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=8B5CF6&amp;section=header&amp;text=Andrii%20Tiupa&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Middle+%20Fullstack%20Web%20and%20Mobile%20Developer&amp;descSize=20&amp;descColor=EDE9FE&amp;descAlignY=55&amp;animation=fadeIn" alt="header" />
+
+<p align="center">
+  <a href="https://github.com/reliponj" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+%26+Mobile+Developer;Flutter+%7C+React+%7C+Nest.js+%7C+FastAPI;Always+learning+new+things+%F0%9F%92%9C&amp;font=Fira+Code&amp;center=true&amp;width=440&amp;height=45&amp;color=8B5CF6&amp;vCenter=true&amp;pause=1000&amp;size=20" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://reliponj.online/" target="_blank">
@@ -52,11 +58,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/reliponj" width="95%" alt="GitHub Contributions" />
+  <img src="https://komarev.com/ghpvc/?username=reliponj&amp;style=for-the-badge&amp;color=8b5cf6&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=reliponj&amp;hide_border=true&amp;mode=daily&amp;background=1E1B4B&amp;border=8B5CF6&amp;ring=8B5CF6&amp;fire=C4B5FD&amp;currStreakNum=EDE9FE&amp;currStreakLabel=A78BFA&amp;sideNums=DDD6FE&amp;sideLabels=A78BFA&amp;dates=C4B5FD" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/reliponj/reliponj/output/github-snake-dark.svg" width="95%" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/reliponj" width="95%" alt="GitHub Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=reliponj&amp;theme=midnight-purple&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -80,7 +98,7 @@
     <td align="center">
       <a href="https://freelancehunt.com/freelancer/filin1.html" target="_blank">
         <img src="https://www.google.com/s2/favicons?domain=freelancehunt.com&amp;sz=64" width="48" height="48" alt="Freelancehunt" />
-        <br /><sub><b>Freelancehunt</b></sub>
+        <br /><sub><b>Freelance</b></sub>
       </a>
     </td>
   </tr>
